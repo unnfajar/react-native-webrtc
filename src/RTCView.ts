@@ -57,4 +57,10 @@ import { requireNativeComponent } from 'react-native';
  * zOrder: number
  */
 
+
+ /**
+  * Snapshot object to pass a trigger to capture current webrtc view
+  * snapshotOption: object
+  */
+
 export default requireNativeComponent('RTCVideoView');
